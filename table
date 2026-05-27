@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Student Table</h2>
+
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>Age</th>
+        <th>City</th>
+                <th>Marks</th>
+
+
+    </tr>
+
+    <tr>
+        <td>Rahul</td>
+        <td>20</td>
+        <td>Pune</td>
+                <td>70</td>
+
+    </tr>
+
+    <tr>
+        <td>Anita</td>
+        <td>22</td>
+        <td>Mumbai</td>
+                <td>80</td>
+
+    </tr>
+    <tr>
+        <td>vaishu</td>
+        <td>18</td>
+        <td>Nashik</td>
+                <td>90</td>
+
+    </tr>
+</table>
+
+</body>
+</html>
